@@ -1,0 +1,2 @@
+# Ignore jupyter nb endpoints
+.ipynb_checkpoints/
